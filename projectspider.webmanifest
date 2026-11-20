@@ -1,0 +1,16 @@
+{
+  "name": "PROJECTSPIDER",
+  "short_name": "PROJECTSPIDER",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080f1d",
+  "theme_color": "#c62828",
+  "icons": [
+    {
+      "src": "projectspider_icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
